@@ -19,8 +19,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddeng78&layout=compact)](https://github.com/daviddeng78/github-readme-stats)
 
-![snake](https://github.com/daviddeng78/daviddeng78/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=otck70jlcfve451jq3u4jz39n&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true)](#)
