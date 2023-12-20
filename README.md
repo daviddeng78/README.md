@@ -1,5 +1,3 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/023/138/759/original/helena-viana-anime-girl-welcome-by-ell.gif?1578239624">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviddeng78&label=Profile%20views&color=0e75b6&style=flat" alt="daviddeng78" /> </p>
 
 ### About Me
