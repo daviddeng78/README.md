@@ -16,9 +16,3 @@
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddeng78&count_private=true&show_icons=true&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddeng78&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/500451897732497428?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage="Most%20likely%20doing%20something%20very%20very%20very%20unproductive...")](https://discord.com/users/500451897732497428)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=otck70jlcfve451jq3u4jz39n&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true)](#)
