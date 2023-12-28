@@ -1,9 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviddeng78&label=Profile%20views&color=0e75b6&style=flat" alt="daviddeng78" /> </p>
 
 ### About Me
-- 💻 Learning more about algorithms and application design
-- 💻 Without bombing USACO
-- 📖 Currently reading [Teenage Mercenary](https://www.webtoons.com/en/action/teenage-mercenary/list?title_no=2677) and like ten other webtoons
+- 💻 Learning about dynamic programming
 
 ---
 
